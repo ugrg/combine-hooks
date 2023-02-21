@@ -1,13 +1,13 @@
 {
   "name": "combine-hooks",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "keywords": [
     "combine",
     "unstated-next",
     "redux",
     "only provider"
   ],
-  "main": "src/index.ts",
+  "main": "lib/index.js",
   "types": "src/index.ts",
   "browser": "lib/index.js",
   "module": "es/index.js",
